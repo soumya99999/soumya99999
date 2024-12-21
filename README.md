@@ -26,9 +26,9 @@
 
 <br>
 
-- 🌱 I’m currently learning **Machine Learning , Deep Learning**
+- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **MERN, Python , Java , Databases**
+- 💬 Ask me about **MERN, Python , Java , Databases, Machine Learning & DL**
 
 - 📫 How to reach me **soumyabarik7365@gmail.com**
 
