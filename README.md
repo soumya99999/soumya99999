@@ -1,11 +1,18 @@
 <h1 align="center">Hi , I'm Soumya Ranjan Barik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=soumya99999&label=Profile+Views&color=blue&style=flat" alt="profile views"/>
+</p>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Web+Developer;ML+Engineer;Competitive+Programmer;Devops+Enthusiast;Lifelong+Learner"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Web+Developer;ML+Engineer;Competitive+Programmer;DevOps+Enthusiast;Lifelong+Learner">
+  </a>
 </p>
 
 ---
-	
-### 👨‍💻 About Me
+
+### 👨‍💻 About Me  
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" />
 
 - 🌱 Currently learning **DevOps & Cloud-Native Tools**  
@@ -55,3 +62,24 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumya99999&theme=tokyonight" height="200"/>
 </p>
+
+---
+
+### 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=soumya99999&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+### 🧩 LeetCode Stats  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/soumya_106?theme=dark&font=Karma&ext=heatmap" />
+</p>
+
+---
+
+### ⚡ Fun Fact  
+> "I don't just write code; I **engineer solutions** 🚀"  
